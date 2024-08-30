@@ -55,8 +55,42 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazar374&" alt="crazar374" /></p>
 
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 👨🏻‍💻 My GitHub Contributions
-![Snake_animation](https://github.com/CrazAr374/CrazAr374/blob/main/dist/github-contribution-grid-snake.svg)
+### 🔗 Thanks for Visiting!
+
+Thank you for checking out my GitHub profile! If you liked what you saw or have any suggestions, don’t hesitate to reach out. Happy coding!
+
+---
+
+<div align="center">
+
+### 🎉 Fun Fact About Me
+I’m a night owl 🦉 who loves coding under the stars 🌌, fueled by coffee ☕ and passion for tech!
+
+### 🌟 My Motto
+**"Keep pushing boundaries, explore the unknown, and always stay curious!"**
+
+### 🚀 Let’s Collaborate
+I'm always open to new projects, ideas, and opportunities! Feel free to reach out if you'd like to collaborate or just chat about tech, innovation, or life.
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/CrazAr374/CrazAr374/blob/main/fun_banner.gif" alt="Thanks for visiting!" style="width:100%; max-height:200px;" />
+</p>
+
+<p align="center">
+  <b>Made with ❤️ by Atharva Rahate</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CrazAr374?tab=followers">
+    <img src="https://img.shields.io/github/followers/CrazAr374?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+</p>
