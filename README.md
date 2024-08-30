@@ -58,5 +58,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 👨🏻‍💻My GitHUb Contributions
-![Snake_animation](https://github.com/CrazAr374/CrazAr374/blob/output/github-contribution-grid-snake.svg)
+### 👨🏻‍💻 My GitHub Contributions
+![Snake_animation](https://github.com/CrazAr374/CrazAr374/blob/main/dist/github-contribution-grid-snake.svg)
