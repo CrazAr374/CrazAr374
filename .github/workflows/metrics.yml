@@ -1,19 +1,59 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily update
+    - cron: "0 1 * * *"   # daily
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
+      - name: Generate full metrics
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: CrazAr374
+
+          # ---- BASE ----
+          template: classic
+          base: header,activity,repositories,community
+          config_timezone: Asia/Kolkata
+
+          # ---- LANGUAGES (ALL USED) ----
+          languages: yes
+          languages_limit: 12
+          languages_threshold: 0%
+          languages_details: bytes-size,percentage
+          languages_colors: github
+          languages_recent_load: 300
+          languages_recent_days: 30
+
+          # ---- ACTIVITY GRAPHS ----
+          activity: yes
+          activity_limit: 10
+          activity_days: 14
+          activity_filter: all
+
+          # ---- HABITS (ENGINEER SIGNAL) ----
+          habits: yes
+          habits_from: 200
+          habits_days: 21
+          habits_facts: yes
+          habits_charts: yes
+
+          # ---- CONTRIBUTION STREAK ----
+          streak: yes
+
+          # ---- ACHIEVEMENTS ----
+          achievements: yes
+          achievements_threshold: C
+          achievements_display: detailed
+          achievements_secrets: true
+
+          # ---- NOTABLE PROJECT SIGNAL ----
+          repositories: yes
+          repositories_affiliations: owner,collaborator
