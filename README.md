@@ -352,6 +352,12 @@ Automated design reasoning with multimodal generation capabilities
 
 ## GITHUB ANALYTICS
 
+<a href="https://github.com/CrazAr374">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrazAr374&theme=algolia&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&border_radius=8" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazAr374&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Contribution Graph" width="49%"/>
+</a>
+
+<br><br>
 
 ### Contribution Metrics
 
